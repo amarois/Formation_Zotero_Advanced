@@ -1,18 +1,19 @@
-# Isidoc't 2022 : Formation Zotero avancé
+# Isidoc't 2023 : Formation Zotero avancé
 
 ```
-*Mise à jour** : 9 juin 2021
-**Version** : V3.1
+*Mise à jour** : 20 juin 2022
+**Version** : V4.0
 **Suivi de version** : 
 - V3 :  modification challenge 1; ajout challenge 5'; ajout TP Zutilo; ajout TP annotation (pour Zotero V6)
 - V3.1 : reformulations de termes, vérification des liens
+- V4.0 : modification challenge 1; modification TP Zutillo et Zotfile en TP exploration d'extensions; ajout TP "moteurs de recherche"
 ```
 
 ## Challenges Zotero :
 
 ### Challenge 1 : 
 
--   importez via le connecteur Zotero : <https://quakkels.com/posts/rss-is-wonderful/>
+-   importez via le connecteur Zotero : <[https://www.arthurperret.fr/cours/flux-web.html](https://www.arthurperret.fr/cours/flux-web.html)>
 
 Note : manque-t-il des métadonnées ?
 
@@ -67,12 +68,24 @@ Note : quelle(s) stratégie(s) pouvons-nous explorer pour récupérer les réf�
 
 (Note : vous pouvez essayer d'éditer collaborativement un document sur google doc avec https://docs.google.com/document/d/13Ye3g-yf-kdROd64Qbozd6puWeIlF5j86hYlUqNoEbQ/edit?usp=sharing)
 
+## TP Plugins
+Repartissez vous en 4 ou 5 groupes, choisissez un plugin parmi la liste suivante; installez le, testez le (ou parcourez rapidement la doc.) et préparer un retour très rapide pour l'ensemble de la classe : à quoi sert-il ? cas d'usages possibles ? limites ? 
+
+- [Zutilo](https://github.com/wshanks/Zutilo)
+- [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
+- [Zotero Tag](https://github.com/windingwind/zotero-tag)
+- [ZotFile](http://zotfile.com/)
+- [Better BibTeX](https://retorque.re/zotero-better-bibtex/)
+- [zotero-scihub]([https://www.zotero.org/support/plugins](https://www.zotero.org/support/plugins))
+- [zotero-open-citations](https://github.com/zuphilip/zotero-open-citations)
+
+Page dédiée au plugin sur le doc. Zotero : [https://www.zotero.org/support/plugins](https://www.zotero.org/support/plugins)
 
 ## TP Zutilo
 1. Installez Zutilo (rappel : https://github.com/wshanks/Zutilo/releases)
 2. Ouvrez les Préférences Zutilo
     - changez le menu contextuel pour Copier les marqueurs et Coller les marqueurs  
-    - définissez un raccourci clavier pour Copier les createurs (proposition : Ctrl + Alt + Shift +C)
+    - définissez un raccourci clavier pour Copier les créateurs (proposition : Ctrl + Alt + Shift +C)
     - vérifiez que le raccourci fonctionne
 3. sélectionnez des références (Ctrl+click) et liées les via Zutilo
  
@@ -90,8 +103,9 @@ Note : quelle(s) stratégie(s) pouvons-nous explorer pour récupérer les réf�
 2. Ouvrez le PDF dans le lecteur Zotero
 3. Page 1, sélectionnez et surlignez en rouge le passage où les auteurs exposent leur vision de ce à quoi doit s'appliquer les principes FAIRs (_"Importantly, it is our intent that the principles apply not only to ‘data’ in the conventional sense,..."_)
 4. Page 2, repérez le passage où il est question du potentiel computationnel des données de recherche (_"Humans, however, are not the only critical stakeholders in the milieu of scientific data...."_) et ajoutez une note à ce niveau.
-5. Page 4,  encadrez la _Box 2 : The FAIR guiding principles_, et ajoutez une commentaire dans le panneau de gauche sous la note signalant que dès F2 il est question de R1 et de l'importance des métadonnées;  R1.3.
+5. Page 4,  encadrez la _Box 2 : The FAIR guiding principles_, et ajoutez un commentaire dans le panneau de gauche sous la note signalant que dès F2 il est question de R1 et de l'importance des métadonnées;  R1.3.
 6. Ajoutez un marqueur à cette image encadrée
+7. Transformez l'ensemble des annotations en notes liées à la référence dans votre bibliothèque Zotero
 
 ## Divers
 fichier de configuration de moteurs de recherche (faire un click droit> enregistrer la cible du lien...) : [engines.json](https://github.com/amarois/Formation_Zotero_Advanced)
