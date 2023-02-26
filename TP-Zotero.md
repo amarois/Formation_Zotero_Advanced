@@ -75,6 +75,7 @@ Repartissez vous en 4 ou 5 groupes, choisissez un plugin parmi la liste suivante
 - [Zotero PDF Translate](https://github.com/windingwind/zotero-pdf-translate)
 - [Zotero Tag](https://github.com/windingwind/zotero-tag)
 - [ZotFile](http://zotfile.com/)
+- [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes)
 - [Better BibTeX](https://retorque.re/zotero-better-bibtex/)
 - [zotero-scihub]([https://www.zotero.org/support/plugins](https://www.zotero.org/support/plugins))
 - [zotero-open-citations](https://github.com/zuphilip/zotero-open-citations)
