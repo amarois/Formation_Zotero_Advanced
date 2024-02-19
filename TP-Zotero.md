@@ -1,12 +1,13 @@
-# Isidoc't 2023 : Formation Zotero avancé
+# Isidoc't 2024 : Formation Zotero avancé
 
 ```
-*Mise à jour** : 20 juin 2022
+*Mise à jour** : 19 février 2024
 **Version** : V4.0
 **Suivi de version** : 
 - V3 :  modification challenge 1; ajout challenge 5'; ajout TP Zutilo; ajout TP annotation (pour Zotero V6)
 - V3.1 : reformulations de termes, vérification des liens
 - V4.0 : modification challenge 1; modification TP Zutillo et Zotfile en TP exploration d'extensions; ajout TP "moteurs de recherche"
+- V4.01 : miscellaneous = simple mise à jour des liens + dates, etc.
 ```
 
 ## Challenges Zotero :
