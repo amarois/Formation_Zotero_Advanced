@@ -9,7 +9,7 @@
 - V4.0 : modification challenge 1; modification TP Zutillo et Zotfile en TP exploration d'extensions; ajout TP "moteurs de recherche"
 - V4.01 : miscellaneous = simple mise à jour des liens + dates, etc.
 - V5.0 : suppression des TPs Zutilo et Zotfile; mise à jour du TP plugins
-- V6.O : rajout de Zutilo, Zoplicate, Zotmoov dans liste d'extensions
+- V6.O : rajout de Zutilo, Zoplicate, Zotmoov dans liste d'extensions; ajouts d'étapes au TP annotations
 ```
 
 ## Challenges Zotero :
@@ -97,7 +97,8 @@ Billet du blog Zotero Francophone dédié aux plugins Zotero 7 : [https://github
 6. Page 2, trouvez le passage où il est question du potentiel computationnel des données de recherche (_"Humans, however, are not the only critical stakeholders in the milieu of scientific data...."_) et ajoutez une note à ce niveau.
 7. Page 4,  encadrez la _Box 2 : The FAIR guiding principles_, et ajoutez un commentaire dans le panneau de gauche sous la note signalant que dès F2 il est question de R1 et de l'importance des métadonnées;  R1.3.
 8. Ajoutez un marqueur à cette image encadrée
-9. Transformez l'ensemble des annotations en notes liées à la référence dans votre bibliothèque Zotero
+9. Au niveau du panneau de contexte, allez dans les notes : transformez l'ensemble des annotations en notes liées à la référence dans votre bibliothèque Zotero ("+" Ajouter un note fille à partir des annotations)
+10. Ouvrez un document word. Intégrez les annotations à votre document
 
 ## Divers
 fichier de configuration de moteurs de recherche (faire un click droit> enregistrer la cible du lien...) : [engines.json](https://github.com/amarois/Formation_Zotero_Advanced)
