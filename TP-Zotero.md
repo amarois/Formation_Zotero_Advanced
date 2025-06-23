@@ -91,11 +91,13 @@ Billet du blog Zotero Francophone dédié aux plugins Zotero 7 : [https://github
 ## TP Annotation
 1. Importez dans Zotero  Wilkinson Mark D., Dumontier Michel, Aalbersberg IJsbrand Jan et al., « The FAIR Guiding Principles for scientific data management and stewardship », _Scientific Data_ 3, 15.03.2016. En ligne: <https://doi.org/10.1038/sdata.2016.18>, consulté le 12.12.2017.
 2. Ouvrez le PDF dans le lecteur Zotero
-3. Page 1, sélectionnez et surlignez en rouge le passage où les auteurs exposent leur vision de ce à quoi doit s'appliquer les principes FAIRs (_"Importantly, it is our intent that the principles apply not only to ‘data’ in the conventional sense,..."_)
-4. Page 2, repérez le passage où il est question du potentiel computationnel des données de recherche (_"Humans, however, are not the only critical stakeholders in the milieu of scientific data...."_) et ajoutez une note à ce niveau.
-5. Page 4,  encadrez la _Box 2 : The FAIR guiding principles_, et ajoutez un commentaire dans le panneau de gauche sous la note signalant que dès F2 il est question de R1 et de l'importance des métadonnées;  R1.3.
-6. Ajoutez un marqueur à cette image encadrée
-7. Transformez l'ensemble des annotations en notes liées à la référence dans votre bibliothèque Zotero
+3. Testez "Affichez/masquez la barre latérale" à gauche de l'interface; laissez la affichée
+4. Testez "Masquez/affichez le panneau de contexte" à droite de l'interface; laissez-le affiché
+5. Avec le moteur de recherche, trouvez le passage où les auteurs exposent leur vision de ce à quoi doit s'appliquer les principes FAIRs (_"Importantly, it is our intent that the principles apply not only to ‘data’ in the conventional sense,..."_), page 1; sélectionnez et surlignez en rouge 
+6. Page 2, trouvez le passage où il est question du potentiel computationnel des données de recherche (_"Humans, however, are not the only critical stakeholders in the milieu of scientific data...."_) et ajoutez une note à ce niveau.
+7. Page 4,  encadrez la _Box 2 : The FAIR guiding principles_, et ajoutez un commentaire dans le panneau de gauche sous la note signalant que dès F2 il est question de R1 et de l'importance des métadonnées;  R1.3.
+8. Ajoutez un marqueur à cette image encadrée
+9. Transformez l'ensemble des annotations en notes liées à la référence dans votre bibliothèque Zotero
 
 ## Divers
 fichier de configuration de moteurs de recherche (faire un click droit> enregistrer la cible du lien...) : [engines.json](https://github.com/amarois/Formation_Zotero_Advanced)
