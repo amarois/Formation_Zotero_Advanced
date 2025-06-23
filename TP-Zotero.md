@@ -1,14 +1,15 @@
 # Isidoc't 2025 : Formation Zotero avancé
 
 ```
-*Mise à jour** : 12 janvier 2025
-**Version** : V5.0
+*Mise à jour** : 23 juin 2025
+**Version** : V6.0
 **Suivi de version** : 
 - V3 :  modification challenge 1; ajout challenge 5'; ajout TP Zutilo; ajout TP annotation (pour Zotero V6)
 - V3.1 : reformulations de termes, vérification des liens
 - V4.0 : modification challenge 1; modification TP Zutillo et Zotfile en TP exploration d'extensions; ajout TP "moteurs de recherche"
 - V4.01 : miscellaneous = simple mise à jour des liens + dates, etc.
 - V5.0 : suppression des TPs Zutilo et Zotfile; mise à jour du TP plugins
+- V6.O : rajout de Zutilo, Zoplicate, Zotmoov dans liste d'extensions
 ```
 
 ## Challenges Zotero :
@@ -74,6 +75,9 @@ Note : quelle(s) stratégie(s) pouvons-nous explorer pour récupérer les réfé
 ## TP Plugins
 Repartissez petits groupes, choisissez un plugin parmi la liste suivante; installez le, testez le (ou parcourez rapidement la doc.) et préparer un retour très rapide pour l'ensemble de la classe : à quoi sert-il ? cas d'usages possibles ? limites ? 
 
+- [Zutilo](https://github.com/wshanks/Zutilo).
+- [Zotmoov](https://github.com/wileyyugioh/zotmoov)
+- [Zoplicate](https://github.com/ChenglongMa/zoplicate)
 - [Zotero Action Tag](https://github.com/windingwind/zotero-tag)
 - [Zotero Attanger](https://github.com/MuiseDestiny/zotero-attanger)
 - [Zotero Linter](https://github.com/northword/zotero-format-metadata)
